@@ -1,0 +1,89 @@
+- week: 1
+  date: May 7,<br> May 9
+  lecture: Parallel Processing Basics
+  materials: <a href="pdf/Week1_Introduction.pdf">Introduction</a>,<br><a href="pdf/Week1_ParallelProcessingBasics.pdf">Parallel Processing Basics</a>
+  assignment: Begin Homework 1
+
+- week: 2
+  date: May 14,<br>  May 16
+  lecture: "Distributed Services: Distributed File System, Resource and Application Management"
+  materials: <a href="pdf/Week2_DistributedServicesIntro.pdf">Distributed System Services</a>,<br><a href="pdf/Week2_DistributedFileSystem.pdf">Distributed File System</a>,<br><a href="pdf/Week2_ResourceAndAppManagement.pdf">Resource and Application Management</a>
+  assignment:
+
+- week: 3
+  date: May 21,<br> no class on May 23
+  lecture: MapReduce and Spark Introduction
+  materials: <a href="pdf/Week3_MapReduceAndSpark.pdf">MapReduce and Spark</a>
+  assignment: Homework 1 Due
+
+- week: 4
+  date: May 28,<br> May 30
+  lecture: Aggregation, Sort
+  materials: <a href="pdf/Week4_FundamentalTechniques.pdf">Fundamental Techniques</a>
+  assignment: Begin Homework 2
+
+- week: 5
+  date: June 4,<br> June 6
+  lecture: Joins
+  materials: <a href="pdf/Week5_Joins.pdf">Joins</a>
+  assignment: Homework 2 Due
+
+- week: 6
+  date: June 11,<br> June 13
+  lecture: Common Algorithm Building Blocks
+  materials: <a href="pdf/Week6_CommonAlgBuildingBlocks.pdf">Common Building Blocks</a>
+  assignment: Begin Homework 3
+
+- week: 7
+  date: June 18,<br> June 20
+  lecture: Graph Algorithms
+  materials: <a href="pdf/Week7_GraphAlgorithms.pdf">Graph Algorithms</a>
+  assignment: Homework 3 Due
+
+- week: 8
+  date: June 25,<br> June 27
+  lecture: Data Mining 1 (K-Means, KNN)
+  materials: <a href="pdf/Week8_DataMining1.pdf">Data Mining 1</a>
+  assignment: Begin Homework 4
+
+- week: 9
+  date: July 2,<br> no class on July 4, Independence Day
+  lecture: Data Mining 2 (Ensembles)
+  materials: <a href="pdf/Week9_DataMining2.pdf">Data Mining 2</a>
+  assignment: Homework 4 Due
+
+- week: 10
+  date: July 9,<br> July 11
+  lecture: Intelligent Partitioning
+  materials: <a href="pdf/Week10_IntelligentPartitioning.pdf">Intelligent Partitioning</a>
+  assignment: 
+
+- week: 11
+  date: July 16,<br> July 18
+  lecture: Lineage, Spark SQL
+  materials: <a href="pdf/Week11_MoreAboutSpark.pdf">More About Spark</a>
+  assignment: 
+
+- week: 12
+  date: no class on July 23 for exam preparation,<br> July 25
+  lecture: 
+  materials: 
+  assignment: Exam
+
+- week: 13
+  date: July 30,<br> Aug 1
+  lecture: Exam Solutions, Spark Stream, CAP Theorem
+  materials: 
+  assignment: Begin Project
+
+- week: 14
+  date: Aug 6,<br> Aug 8
+  lecture: Spark MLlib, GraphX, HBase
+  materials: <a href="pdf/Week14_CAP-HBase-Hive.pdf">Beyond MapReduce and Spark</a>
+  assignment: Project Due
+
+- week: 15
+  date: Aug 13,<br> Aug 15
+  lecture: Hive
+  materials: 
+  assignment: Project Presentations

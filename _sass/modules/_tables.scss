@@ -1,0 +1,32 @@
+/***************
+TABLE STYLES
+***************/
+
+table {
+	width: 100%;
+	margin-bottom: 1.5em;
+	border-collapse: collapse;
+	font-size: medium;
+}
+
+tr {
+
+	&:nth-child(even) {
+		background-color: lighten(chocolate, 50%);
+	}
+}
+
+td,
+th {
+	text-align: left;
+	padding: .5em;
+}
+
+th {
+	background-color: lighten(chocolate, 35%);
+	color: chocolate;
+
+	&:last-child {
+		border-right: 0;
+	}
+}
