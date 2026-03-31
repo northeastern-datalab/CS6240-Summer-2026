@@ -1,0 +1,19 @@
+title: CS6240 Large-scale Parallel Data Processing
+
+url: https://northeastern-datalab.github.io
+baseurl: /CS6240-2024-Summer
+
+sass:
+    style: compressed
+
+navigation:
+    - title: Home
+      url: /
+    - title: Schedule
+      url: schedule
+    - title: Resources
+      url: resources
+    - title: Policies
+      url: policies
+    - title: Tips
+      url: tips

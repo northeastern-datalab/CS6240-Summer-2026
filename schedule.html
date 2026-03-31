@@ -1,0 +1,27 @@
+---
+layout: default
+title: CS6240 Large-scale Parallel Data Processing
+---
+
+<table>
+    <thead>
+        <tr>
+            <th>Week</th>
+            <th>Date</th>
+            <th>Lecture Topics</th>
+            <th>Reading Materials</th>
+            <th>Assignment</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for schedule in site.data.schedule %}
+        <tr>
+            <td>{{ schedule.week }}</td>
+            <td>{{ schedule.date }}</td>
+            <td>{{ schedule.lecture }}</td>
+            <td>{{ schedule.materials }}</td>
+            <td>{{ schedule.assignment }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
