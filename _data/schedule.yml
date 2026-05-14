@@ -1,13 +1,13 @@
 - week: 1
   date: May 7
   lecture: Parallel Processing Basics
-  materials: <a href="pdf/Week1_Introduction.pdf">Introduction</a>,<br><a href="pdf/Week1_ParallelProcessingBasics.pdf">Parallel Processing Basics</a>
+  materials: <a href="pdf/Week1_Introduction.pdf">Introduction</a>,<br><a href="pdf/Week1_ParallelProcessingBasics.pdf">Parallel Processing Basics</a>,<br><a href="pdf/REV_ParallelProcessingBasics.pdf">Parallel Processing Basics (Revised)</a>
   assignment: Begin Homework 1
 
 - week: 2
   date: May 12,<br>  May 14
   lecture: "Distributed Services: Distributed File System, Resource and Application Management"
-  materials: <a href="pdf/Week2_DistributedServicesIntro.pdf">Distributed System Services</a>,<br><a href="pdf/Week2_DistributedFileSystem.pdf">Distributed File System</a>,<br><a href="pdf/Week2_ResourceAndAppManagement.pdf">Resource and Application Management</a>
+  materials: <a href="pdf/Week2_DistributedServicesIntro.pdf">Distributed System Services</a>,<br><a href="pdf/Week2_DistributedFileSystem.pdf">Distributed File System</a>,<br><a href="pdf/Week2_ResourceAndAppManagement.pdf">Resource and Application Management</a>,<a href="pdf/Week2_DistributedServicesIntro.pdf">Distributed System Services</a>,<br><a href="pdf/REV_DistributedFileSystem.pdf">Distributed File System (Revised)</a>,<br><a href="pdf/REV_ResourceAndAppManagement.pdf">Resource and Application Management (Revised)</a>
   assignment:
 
 - week: 3
