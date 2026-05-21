@@ -13,7 +13,7 @@
 - week: 3
   date: May 19,<br> May 21
   lecture: MapReduce and Spark Introduction
-  materials: <a href="pdf/Week3_MapReduceAndSpark.pdf">MapReduce and Spark</a>
+  materials: <a href="pdf/Week3_MapReduceAndSpark.pdf">MapReduce and Spark</a>,<br><a href="pdf/REV_MapReduce.pdf">MapReduce (Revised)</a>, <br><a href="pdf/REV_Spark.pdf">Spark (Revised)</a>
   assignment: Homework 1 Due
 
 - week: 4
@@ -65,25 +65,25 @@
   assignment: 
 
 - week: 12
-  date: no class on July 23 for exam preparation,<br> July 25
+  date: no class on July 21 for exam preparation,<br> July 23
   lecture: 
   materials: 
   assignment: Exam
 
 - week: 13
-  date: July 30,<br> Aug 2
+  date: July 28,<br> July 30
   lecture: Exam Solutions, Spark Stream, CAP Theorem
   materials: 
   assignment: Begin Project
 
 - week: 14
-  date: Aug 7,<br> Aug 9
+  date: Aug 4,<br> Aug 6
   lecture: Topics TBD
   materials: TBD
   assignment: Project Due
 
 - week: 15
-  date: Aug 14,<br> Aug 16
+  date: Aug 11,<br> Aug 13
   lecture: Topics TBD
   materials: TBD
   assignment: Project Presentations
