@@ -37,13 +37,13 @@
 - week: 7
   date: June 16,<br> June 18
   lecture: Graph Algorithms
-  materials: <a href="pdf/Week7_GraphAlgorithms.pdf">Graph Algorithms</a>
+  materials: <a href="pdf/Week7_GraphAlgorithms.pdf">Graph Algorithms</a> <br><a href="pdf/REV_GraphAlgorithms.pdf">Graph Algorithms (Revised)</a>
   assignment: Homework 3 Due
 
 - week: 8
   date: June 23,<br> June 25
   lecture: Data Mining 1 (K-Means, KNN)
-  materials: <a href="pdf/Week8_DataMining1.pdf">Data Mining 1</a>
+  materials: <a href="pdf/Week8_DataMining1.pdf">Data Mining 1</a> <br><a href="pdf/REV_DataMining1.pdf">Data Mining 1 (Revised)</a>
   assignment: Begin Homework 4
 
 - week: 9
