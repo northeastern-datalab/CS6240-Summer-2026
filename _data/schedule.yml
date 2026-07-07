@@ -42,14 +42,14 @@
 
 - week: 8
   date: June 23,<br> June 25
-  lecture: Data Mining 1 (K-Means, KNN)
-  materials: <a href="pdf/Week8_DataMining1.pdf">Data Mining 1</a>
+  lecture: Data Mining 1 (K-Means)
+  materials: <a href="pdf/Week8_DataMining1.pdf">Data Mining 1</a><br><a href="pdf/REV_DataMining.pdf">Data Mining 1 (Revised)</a>
   assignment: Begin Homework 4
 
 - week: 9
   date: June 30,<br> July 2
-  lecture: Data Mining 2 (Ensembles)
-  materials: <a href="pdf/Week9_DataMining2.pdf">Data Mining 2</a>
+  lecture: Data Mining 1 (KNN)
+  materials: <a href="pdf/Week9_DataMining1.pdf">Data Mining 1</a><br><a href="pdf/REV_DataMining.pdf">Data Mining 1 (Revised)</a>
   assignment: Homework 4 Due
 
 - week: 10
