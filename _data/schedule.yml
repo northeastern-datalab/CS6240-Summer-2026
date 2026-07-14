@@ -48,14 +48,14 @@
 
 - week: 9
   date: June 30,<br> July 2
-  lecture: Data Mining 1 (KNN)
-  materials: <a href="pdf/Week9_DataMining1.pdf">Data Mining 1</a><br><a href="pdf/REV_DataMining.pdf">Data Mining 1 (Revised)</a>
+  lecture: Data Mining 2 (Ensembles)
+  materials: <a href="pdf/Week9_DataMining2.pdf">Data Mining 2</a><br>
   assignment: Homework 4 Due
 
 - week: 10
   date: July 7,<br> July 9
   lecture: Intelligent Partitioning
-  materials: <a href="pdf/Week10_IntelligentPartitioning.pdf">Intelligent Partitioning</a>
+  materials: <a href="pdf/Week10_IntelligentPartitioning.pdf">Intelligent Partitioning</a><br><a href="pdf/REV_IntelligentPartitioning.pdf">Intelligent Partitioning (Revised)</a>
   assignment: 
 
 - week: 11
